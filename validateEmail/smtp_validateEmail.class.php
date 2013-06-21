@@ -1,5 +1,4 @@
 <?php
- 
  /**
  * Validate Email Addresses Via SMTP
  * This queries the SMTP server to see if the email address is accepted.
