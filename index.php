@@ -12,5 +12,12 @@
 		<p> Hello Mark, How are you today ? </p>
 	<br />
 	<h4> Link to Google.com | Link to Bitcket.org</h4>	
+	<table>
+		<tr>
+			 <td>	Name 		</td>	
+			 <td>	Country  	</td>	
+			 <td>	Language	 </td>	
+		</tr>
+	</table>
 </body>
 </html>
