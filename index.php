@@ -9,6 +9,7 @@
 	<h1> validate email address </h1>
 	<br />
 	<br />
+		<p> Hello Mark, How are you today ? </p>
 	<br />
 	<h4> Link to Google.com | Link to Bitcket.org</h4>	
 </body>
