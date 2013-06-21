@@ -2,6 +2,7 @@
 /**
  * Example 2
  * Validate a single Email via SMTP
+ * Author name : Veerpartap Singh
  */
 
 // include SMTP Email Validation Class
