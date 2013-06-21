@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Example 2
  * Validate a single Email via SMTP
