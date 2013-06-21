@@ -1,4 +1,4 @@
-<?php
+<?php // This file is class file for email validations
  
  /**
  * Validate Email Addresses Via SMTP
