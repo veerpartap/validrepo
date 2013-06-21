@@ -5,6 +5,7 @@
 </head>
 
 <body>
+	<h1> Processing Email validation form </h1>
 	<h1> validate email address </h1>
 </body>
 </html>
