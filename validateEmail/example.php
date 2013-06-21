@@ -1,6 +1,7 @@
 <?php
+
 /**
- * Example 2
+ * This file is of Example 2
  * Validate a single Email via SMTP
  * Author name : Veerpartap Singh
  */
